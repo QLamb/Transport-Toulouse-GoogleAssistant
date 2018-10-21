@@ -1,0 +1,45 @@
+{
+  "id": "58c9cc99-6ffd-4ba9-8e3c-7329e01e9d33",
+  "name": "StopsSchedules",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ca80adb0-5f86-47af-9cb7-831e72ef54d4",
+          "required": true,
+          "dataType": "@StopAreaToStopId",
+          "name": "stopId",
+          "value": "$stopId",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Dites moi le nom de l\u0027arrêt où vous vous trouvez."
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "6f59da79-420e-49b9-bb3c-e882ecc9b84b",
+          "required": false,
+          "dataType": "@StopAreaToStopId",
+          "name": "destinationId",
+          "value": "$destinationId",
+          "isList": true
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539631004,
+  "fallbackIntent": false,
+  "events": []
+}

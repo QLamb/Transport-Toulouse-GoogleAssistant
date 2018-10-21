@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cd23eaf9-4a9f-4a6d-8d78-34d35033e3dd",
+    "data": [
+      {
+        "text": "ok Google ta gueule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41b94d80-c078-4485-8898-1313377e994c",
+    "data": [
+      {
+        "text": "quitte tout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

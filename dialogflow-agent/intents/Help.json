@@ -1,0 +1,28 @@
+{
+  "id": "0f8fe7a7-12bc-4521-9d64-bcedb5d6f9cb",
+  "name": "Help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": "Je peux vous donner les prochains passages aux arrêts de transport en commun à Toulouse, afin que vous ne ratier plus jamais vos transport."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539623517,
+  "fallbackIntent": false,
+  "events": []
+}

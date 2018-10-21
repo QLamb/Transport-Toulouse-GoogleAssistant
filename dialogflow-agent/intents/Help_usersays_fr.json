@@ -1,0 +1,97 @@
+[
+  {
+    "id": "eb6699cf-6ec8-43a9-8986-03d9778f51a6",
+    "data": [
+      {
+        "text": "Quelles sont le questions que je peux te poser ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539623517
+  },
+  {
+    "id": "beea5c37-2e07-4bf7-9adc-25ac11e94525",
+    "data": [
+      {
+        "text": "Aides ",
+        "userDefined": false
+      },
+      {
+        "text": "moi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539623517
+  },
+  {
+    "id": "f52bb069-088c-4ecd-82b2-bbf7ff6af278",
+    "data": [
+      {
+        "text": "Dis ",
+        "userDefined": false
+      },
+      {
+        "text": "moi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ce que tu peux faire ",
+        "userDefined": false
+      },
+      {
+        "text": "pour moi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539622491
+  },
+  {
+    "id": "709962e2-7592-4834-9e7a-c98761c87c79",
+    "data": [
+      {
+        "text": "Aide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539622491
+  },
+  {
+    "id": "e273ad8f-9491-41f8-9961-0bebfa890241",
+    "data": [
+      {
+        "text": "Qu\u0027est ce que je peux faire ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539622491
+  },
+  {
+    "id": "9a2f417c-6092-4cc6-b26c-bda61b3f5e1c",
+    "data": [
+      {
+        "text": "Qu\u0027est ce que tu peux faire ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539622491
+  }
+]

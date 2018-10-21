@@ -1,0 +1,37 @@
+{
+  "id": "8ac26989-1b7b-4dbe-bd93-3eab983a6b56",
+  "name": "actions_intent_CANCEL",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": [
+            "A bientôt.",
+            "Laissez moi savoir la prochaine fois que vous voudrez connaitre les prochains passage de transport en commun.",
+            "Au revoir.",
+            "J\u0027espère que vous ne raterez pas votre transport, à bientôt."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539716686,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_Cancel"
+    }
+  ]
+}

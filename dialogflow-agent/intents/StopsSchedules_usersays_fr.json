@@ -1,0 +1,442 @@
+[
+  {
+    "id": "84eeba2f-7eec-4839-93b7-333db985a4ba",
+    "data": [
+      {
+        "text": "quand passe le prochain tram à ",
+        "userDefined": false
+      },
+      {
+        "text": "Zénith",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      },
+      {
+        "text": " en direction de ",
+        "userDefined": false
+      },
+      {
+        "text": "palais de justice",
+        "alias": "destinationId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e51696d-fb10-4493-9d1c-55615f908d01",
+    "data": [
+      {
+        "text": "Combien de temps je dois attendre pour aller en direction de ",
+        "userDefined": false
+      },
+      {
+        "text": "Capitole",
+        "alias": "destinationId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      },
+      {
+        "text": " depuis l\u0027arrêt ",
+        "userDefined": false
+      },
+      {
+        "text": "Zénith",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539631004
+  },
+  {
+    "id": "7f667a72-bf2e-48af-8fe6-3ea95b8c1eab",
+    "data": [
+      {
+        "text": "Dis ",
+        "userDefined": false
+      },
+      {
+        "text": "moi les prochains",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " passages vers ",
+        "userDefined": false
+      },
+      {
+        "text": "Palais de Justice",
+        "alias": "destinationId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      },
+      {
+        "text": " depuis le ",
+        "userDefined": false
+      },
+      {
+        "text": "Zénith",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539631004
+  },
+  {
+    "id": "b32e05fd-a0a9-49d1-9f27-7113e2304741",
+    "data": [
+      {
+        "text": "Dis ",
+        "userDefined": false
+      },
+      {
+        "text": "moi les prochains",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " passages depuis ",
+        "userDefined": false
+      },
+      {
+        "text": "Zénith",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      },
+      {
+        "text": " vers ",
+        "userDefined": false
+      },
+      {
+        "text": "Capitole",
+        "alias": "destinationId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539631004
+  },
+  {
+    "id": "b219939e-0c6e-466c-942f-9d87985c5b87",
+    "data": [
+      {
+        "text": "Capitole",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": true
+      },
+      {
+        "text": " vers ",
+        "userDefined": false
+      },
+      {
+        "text": "Basso Cambo",
+        "alias": "destinationId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539626471
+  },
+  {
+    "id": "8bc2e8a3-3383-4f05-84b2-bb621d605537",
+    "data": [
+      {
+        "text": "Quand passe le prochain bus à ",
+        "userDefined": false
+      },
+      {
+        "text": "Zénith",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      },
+      {
+        "text": " vers ",
+        "userDefined": false
+      },
+      {
+        "text": "Capitole",
+        "alias": "destinationId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539626471
+  },
+  {
+    "id": "448da346-b41d-4dd7-ac43-e45eaa14c5f5",
+    "data": [
+      {
+        "text": "Quels sont les prochains passages à l\u0027arrêt ",
+        "userDefined": false
+      },
+      {
+        "text": "Capitole",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      },
+      {
+        "text": " en direction de ",
+        "userDefined": false
+      },
+      {
+        "text": "Basso cambo",
+        "alias": "destinationId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539626471
+  },
+  {
+    "id": "5d33949e-33ac-481b-85c5-ac85bedf115d",
+    "data": [
+      {
+        "text": "Quels sont les prochains passages à l\u0027arrêt ",
+        "userDefined": false
+      },
+      {
+        "text": "Capitole",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": true
+      },
+      {
+        "text": " à Toulouse ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539545650
+  },
+  {
+    "id": "9a446b85-a91a-4205-8695-7fb41046f424",
+    "data": [
+      {
+        "text": "Arrêt de bus ",
+        "userDefined": false
+      },
+      {
+        "text": "zénith",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539542640
+  },
+  {
+    "id": "584d75a9-5ef9-47b8-8ede-37d5952a5993",
+    "data": [
+      {
+        "text": "Quand passe le prochain métro au ",
+        "userDefined": false
+      },
+      {
+        "text": "capitole",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539542640
+  },
+  {
+    "id": "5c8614f6-35d5-4051-b487-45533dd3f2a4",
+    "data": [
+      {
+        "text": "Quand passe le prochain bus au ",
+        "userDefined": false
+      },
+      {
+        "text": "Capitole",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539542640
+  },
+  {
+    "id": "6ac7051b-5e5f-4c85-a871-27a65233a560",
+    "data": [
+      {
+        "text": "Capitole",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539542640
+  },
+  {
+    "id": "1ab36b8b-c8a9-468a-9489-28a00fc0d094",
+    "data": [
+      {
+        "text": "Arrêt ",
+        "userDefined": false
+      },
+      {
+        "text": "capitole",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539542640
+  },
+  {
+    "id": "036c01eb-8e22-486d-afff-31bc54ba946b",
+    "data": [
+      {
+        "text": "Quels sont les prochains passages à l\u0027arrêt ",
+        "userDefined": false
+      },
+      {
+        "text": "Capitole",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539544789
+  },
+  {
+    "id": "f0241d0d-50f2-4fe2-afac-eca69f937e3c",
+    "data": [
+      {
+        "text": "Quel est le prochain passage au ",
+        "userDefined": false
+      },
+      {
+        "text": "zénith",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539542640
+  },
+  {
+    "id": "14a38409-9634-47af-ac29-ff0c9734727b",
+    "data": [
+      {
+        "text": "@StopAreaToStopId:stopId",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539542640
+  },
+  {
+    "id": "4f280656-9dc0-4f3b-8937-ff78feb0a573",
+    "data": [
+      {
+        "text": "Je suis à la station ",
+        "userDefined": false
+      },
+      {
+        "text": "zénith",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539542640
+  },
+  {
+    "id": "0615698b-46d3-435d-8862-75a0f1f72753",
+    "data": [
+      {
+        "text": "Je suis à l\u0027arrêt ",
+        "userDefined": false
+      },
+      {
+        "text": "zénith",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539542640
+  },
+  {
+    "id": "0dd834e0-1b9e-4e7a-a4df-40cc65857341",
+    "data": [
+      {
+        "text": "Station ",
+        "userDefined": false
+      },
+      {
+        "text": "capitole",
+        "alias": "stopId",
+        "meta": "@StopAreaToStopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539542640
+  }
+]

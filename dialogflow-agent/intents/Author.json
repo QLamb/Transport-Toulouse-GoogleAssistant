@@ -1,0 +1,28 @@
+{
+  "id": "d61a1f6e-56c8-4623-b93f-7f0ab5f7fd06",
+  "name": "Author",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": "Mon auteur est Quentin Lambert."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539708727,
+  "fallbackIntent": false,
+  "events": []
+}
