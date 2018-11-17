@@ -1,5 +1,7 @@
 # Transport-Toulouse
-Transport-Toulouse is an [action for the Google Assistant](https://developers.google.com/actions) allowing users to get information about public transportation at Toulouse
+Transport-Toulouse is an [action for the Google Assistant](https://developers.google.com/actions) allowing users to get information about public transportation at Toulouse.
+A detailed description of the application can be found on the dedicated Google Assistant page:
+https://assistant.google.com/services/a/uid/0000005af0160566?hl=fr&source=web
 
 ## Features
 * Get next passages at a stop:

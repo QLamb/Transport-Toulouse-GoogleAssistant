@@ -18,9 +18,13 @@
             {
               "lang": "fr",
               "value": "Dites moi le nom de l\u0027arrêt où vous vous trouvez."
+            },
+            {
+              "lang": "fr",
+              "value": "Je n\u0027ai pas saisi le nom de l\u0027arrêt, pouvez vous répéter s\u0027il vous plaît ?"
             }
           ],
-          "isList": true
+          "isList": false
         },
         {
           "id": "6f59da79-420e-49b9-bb3c-e882ecc9b84b",
@@ -28,7 +32,7 @@
           "dataType": "@StopAreaToStopId",
           "name": "destinationId",
           "value": "$destinationId",
-          "isList": true
+          "isList": false
         }
       ],
       "messages": [],
@@ -39,7 +43,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1539631004,
+  "lastUpdate": 1541014663,
   "fallbackIntent": false,
   "events": []
 }
